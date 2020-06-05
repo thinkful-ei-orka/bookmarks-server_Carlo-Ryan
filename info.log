@@ -1,1 +1,9 @@
 {"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /boomarks","level":"error"}
+{"message":"ID: 222d047d-a5db-40e7-ae6b-951e84fd74ad was deleted","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"URL must begin with 'https://'","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"URL must begin with 'https://'","level":"error"}

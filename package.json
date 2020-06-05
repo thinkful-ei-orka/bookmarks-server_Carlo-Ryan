@@ -1,7 +1,7 @@
 {
   "name": "bookmarks-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a boilerplate project used for starting new projects!",
   "main": "app.js",
   "scripts": {
     "test": "mocha --require test/setup.js",
@@ -27,5 +27,16 @@
     "mocha": "^7.2.0",
     "nodemon": "^2.0.4",
     "supertest": "^4.0.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-orka/bookmarks-server_Carlo-Ryan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-orka/bookmarks-server_Carlo-Ryan/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-orka/bookmarks-server_Carlo-Ryan#readme"
 }
