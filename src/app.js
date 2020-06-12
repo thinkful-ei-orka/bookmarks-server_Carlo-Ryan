@@ -30,7 +30,7 @@ app.use(function validateBearerToken(req, res, next) {
   next();
 });
 
-app.use(bookmarkRouter);
+app.use('/api/', bookmarkRouter);
 
 app.use(function errorHandler(error, req, res, next) {
   let response;
